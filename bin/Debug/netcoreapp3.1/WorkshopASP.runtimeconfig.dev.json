@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CAN SIMBOLON\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CAN SIMBOLON\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
